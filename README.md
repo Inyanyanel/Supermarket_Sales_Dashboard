@@ -6,7 +6,7 @@ This data analysis project aims to provide insights into the sales performance o
 
 ### Data Sources
 
-Sales Data: The primary dataset used for this analysis is the "supermarket_sales.csv" file (https://www.kaggle.com/datasets/alexhuitron/supermarket-sales) from kaggle.com datasets.
+Sales Data: The primary dataset used for this analysis is the "supermarket_sales.csv" file from kaggle.com datasets [Check Here](https://www.kaggle.com/datasets/alexhuitron/supermarket-sales).
 
 ### Tools used
 
