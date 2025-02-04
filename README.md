@@ -26,8 +26,18 @@ Sales Data: The primary dataset used for this analysis is the "supermarket_sales
 
 ### Data Analysis
 We predominantly used excel functions and formulas as demonstrated below;
-#### Functions
+#### Formulas
   - Sum-used to get total sales, cost of goods sold and profits.
   - Count-used to get total number of transactions.
+##### Functions
+  - Sumifs-used to get total sales and profits per category and salesper branch.
+  - Countifs-used to get total transactions and payment modes per category.
+  - Xlookup-used to get sales and units quantity per invoice during the year.
+
+#### Findings and results
+  - The profits were predetermined at a margin of 5%.
+  - The company experienced boom in sales fo the first three monthsof the year.
+  - Foods and beverage was the top selling category during the year.
+  - Branch SALES were evenly distributed during the year.
 
 
