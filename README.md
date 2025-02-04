@@ -24,4 +24,9 @@ Sales Data: The primary dataset used for this analysis is the "supermarket_sales
 -  What were most preferred payments over the year?
 -  What were the top branches and why?
 
+### Data Analysis
+We predominantly used excel functions and formulas as demonstrated below;
+#### Functions
+  - 
+
 
