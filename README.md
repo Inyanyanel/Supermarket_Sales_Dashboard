@@ -12,4 +12,10 @@ Sales Data: The primary dataset used for this analysis is the "supermarket_sales
 
 - Excel - Used to clean, transform, analyse and visualisation.
 
+### Data preparation
+
+- Data loading and inspection.
+- Handling missing values.
+- Data cleaning, formatting and transformation.
+
 
