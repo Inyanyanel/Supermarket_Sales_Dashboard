@@ -27,7 +27,7 @@ Sales Data: The primary dataset used for this analysis is the "supermarket_sales
 ### Data Analysis
 We predominantly used excel functions and formulas as demonstrated below;
 #### Functions
-  - Sum, used to get total sales, cost of goods sold and profits.
-  - Count, used to get total number of transactions.
+  - Sum-used to get total sales, cost of goods sold and profits.
+  - Count-used to get total number of transactions.
 
 
