@@ -18,4 +18,10 @@ Sales Data: The primary dataset used for this analysis is the "supermarket_sales
 - Handling missing values.
 - Data cleaning, formatting and transformation.
 
+### Explanatory analysis
+- What was the total sales and profits trend?
+-  What were the top selling categories and invoices?
+-  What were most preferred payments over the year?
+-  What were the top branches and why?
+
 
