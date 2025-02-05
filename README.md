@@ -35,13 +35,20 @@ We predominantly used excel functions and formulas as demonstrated below;
   - Xlookup-used to get sales and units quantity per invoice during the year.
 
 #### Findings and results
-  - January was the top selling month with Kshs. 75,160.51 while April the lowest at Kshs. 2,870.46
-  - Top sales order was invoice no. 860-79-0874 selling as Kshs. 1,042.65
+  - January was the top selling month with Kshs. 75,160.51 while April the lowest at Kshs. 2,870.46.
+  - Top sales order was invoice no. 860-79-0874 selling as Kshs. 1,042.65.
   - The profits were predetermined at a margin of 5%.
-  - The company experienced boom in sales fo the first three months of the year.
+  - The company experienced boom in sales fo the first quarter then sales dwindeled in the latter quarters.
   - Foods and beverage was the top selling category during the year.
   - Branch sales were evenly distributed during the year.
   - Payment modes of cash, credit card and e-wallet were evenly used across the period.
-  - Alexandria branch dominated on food and beverage sales (47%), Giza on home & lifestyle (43%), Cairo on health & beauty (39%)
+  - Alexandria branch dominated on food and beverage sales (47%), Giza on home & lifestyle (43%), Cairo on health & beauty (39%).
+
+#### Recommendations
+Based on the highlighted observations, we recommend the following courses of actions.
+  - Invest in marketing promotions to boost sales in the latter three quarters.
+  - Incentives should be offered on food and beverage category to boost sales.
+  - Each branch need to adopt its top selling category into a respective flagship outlet to bost sales.
+  - Profit margin need to be slightly slashed to 4% to reduce the price in order to try boost sales in the last three quarters.
 
 
