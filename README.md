@@ -51,4 +51,7 @@ Based on the highlighted observations, we recommend the following courses of act
   - Each branch need to adopt its top selling category into a respective flagship outlet to bost sales.
   - Profit margin need to be slightly slashed to 4% to reduce the price in order to try boost sales in the last three quarters.
 
+#### Limitations
+  - Few outliers were recognised and removed reducing the data size.
+
 
