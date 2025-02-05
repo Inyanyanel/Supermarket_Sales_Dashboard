@@ -55,7 +55,7 @@ Based on the highlighted observations, we recommend the following courses of act
   - Few outliers were recognised and removed reducing the data size.
 
 #### References
-  - Excel advanced skills for business (https://coursera.org/share/4282d5f46dce95bf970f7084e2200d72)
-  - Excel funndamentals for data analysis (https://coursera.org/share/3644ab5effb80789d6d71f61816530ef)
+  - Excel advanced skills for business [Check here](https://coursera.org/share/4282d5f46dce95bf970f7084e2200d72)
+  - Excel funndamentals for data analysis [Check here](https://coursera.org/share/3644ab5effb80789d6d71f61816530ef)
 
 
