@@ -3,6 +3,16 @@
 ## Table Of Contents
 
 - [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tools used](#tools-used)
+- [Data preparation](#data-preparation)
+- [Explanatory analysis](#explanatory-analysis)
+- [Data Analysis]($data-analysis)
+- [Functions](#functions)
+- [Findings and results]($findings-and-results)
+- [Recommendations](#recommendations)
+- [Limitations](#limitations)
+- [References](#references)
 
 ### Project Overview
 
