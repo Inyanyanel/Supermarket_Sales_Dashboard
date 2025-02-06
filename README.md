@@ -1,5 +1,9 @@
 # Supermarket Sales Dashboard
 
+## Table Of Contents
+
+- [Project Overview](#project-overview)
+
 ### Project Overview
 
 This data analysis project aims to provide insights into the sales performance of a supermarket in year 2019. We are  looking into various sales aspects seeking to identify the trends, gain a deeper understanding of the sales performance and make recommendations.
